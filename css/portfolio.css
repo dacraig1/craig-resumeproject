@@ -1,0 +1,42 @@
+body {
+
+    width: 70%;
+    margin: 0 auto;
+    line-height: 1.5;
+    font-family: Verdana, sans-serif;
+	background: #e4e2f2;
+	height: 100%;
+    font-weight: bold;
+}
+ol li {
+    list-style-position: inside;
+    padding-left: 1%;
+    
+}
+
+h1{
+    font-family: portada, serif;
+    text-size-adjust: 100%;
+    text-align: center;
+}
+
+h2, h3{ 
+    padding: 1%;
+    font-family: Georgia, sans-serif; 
+    text-align: left;
+    text-decoration: underline;
+
+}
+
+
+footer {
+    clear: both;
+    background-color: #e4e2f2;
+    color: white;
+    padding: 1%;
+    margin-top: 5%;
+    
+    
+
+}
+
